@@ -1,0 +1,7 @@
+{
+  "default": [
+    { "tag": "h1", "content": "Привет.", "class": "title" },
+    { "tag": "p", "content": "Команда Высшей Школы Экономики", "class": "description" },
+    { "tag": "p", "content": "Представляет вам проект...", "class": "description" }
+  ]
+}

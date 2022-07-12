@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "coords": [59.939099, 30.315877],
+    "data": {
+      "owner": "Мусор.co",
+      "type": "all",
+      "size": "little"
+    }
+  },
+  {
+    "id": 2,
+    "coords": [59.939199, 30.315877],
+    "data": {
+      "owner": "Мусор.co",
+      "type": "all",
+      "size": "little"
+    }
+  },
+  {
+    "id": 3,
+    "coords": [59.939299, 30.315877],
+    "data": {
+      "owner": "ЧистотаУют",
+      "type": "glass",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 4,
+    "coords": [59.939399, 30.315877],
+    "data": {
+      "owner": "ЧистотаУют",
+      "type": "all",
+      "size": "big"
+    }
+  },
+  {
+    "id": 5,
+    "coords": [59.939499, 30.315877],
+    "data": {
+      "owner": "Мусор.co",
+      "type": "all",
+      "size": "little"
+    }
+  },
+  {
+    "id": 6,
+    "coords": [59.939599, 30.315877],
+    "data": {
+      "owner": "Мусор.co",
+      "type": "all",
+      "size": "little"
+    }
+  },
+  {
+    "id": 7,
+    "coords": [59.939699, 30.315877],
+    "data": {
+      "owner": "Мусор.co",
+      "type": "all",
+      "size": "little"
+    }
+  }
+]
